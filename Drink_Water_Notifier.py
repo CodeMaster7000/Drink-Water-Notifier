@@ -1,6 +1,6 @@
+import datetime
 import time 
-from win10toast import ToastNotifier 
-import datetime 
+from win10toast import ToastNotifier
 def getTimeInput(): 
 	hour = int(input("Interval hours: ")) 
 	minutes = int(input("Interval minutes: ")) 
