@@ -4,7 +4,7 @@
 
 A Python script to notify the user to drink water at regular intervals.
 
-NOTE: Sample output included is not part of the program.
+NOTE: `Sample output` is for viewing purposes only and is not part of the program.
 
 ## Prerequisites
 
