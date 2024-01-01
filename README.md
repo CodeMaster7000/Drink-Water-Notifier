@@ -8,7 +8,7 @@ NOTE: `Sample Output` is for viewing purposes only and is not part of the progra
 
 ## Prerequisites
 
-- Python 3
+- Python3
 - `win10toast` module (can be installed simply with `pip install win10toast`)
 
 ## Implementation
